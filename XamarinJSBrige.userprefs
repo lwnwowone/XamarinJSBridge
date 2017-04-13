@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{857FEA35-83A0-4087-AC70-DD76843B7539}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinJSBrige/MainViewController.cs">
+    <Files>
+      <File FileName="XamarinJSBrige/AppDelegate.cs" Line="17" Column="69" />
+      <File FileName="XamarinJSBrige/MainViewController.cs" Line="11" Column="20" />
+      <File FileName="XamarinJSBrige/Resources/TestBrigeHtml.html" Line="7" Column="63" />
+      <File FileName="XamarinJSBrige/JSBrige/JSBridgeWebView.cs" Line="25" Column="25" />
+      <File FileName="XamarinJSBrige/JSBrige/ALJavaExporter.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinJSBridge PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E2D12804-AAF7-4A09-B768-12D75B945283" />
+</Properties>
